@@ -22,7 +22,15 @@ my project. This was included so my reviewer could validate my code.
 to see my code and the output all in the same place. This was tremendously
 helpful as I did lots of code reworking based upon the output.
 
+--I did not use any sort of special environment for the project.
+I simply used the default Anaconda environment with the packages I loaded inside of the notebook.
+
+##JPEG
+
+--This is the picture attached to my project on my Udacity
+profile.
+
 
 ###Other Notes
 
---This project was completed with Python 2.7. 
+--This project was completed with Python 2.7.
